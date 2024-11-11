@@ -11,6 +11,8 @@ Git
 Adobe PhotoShop
 Adobe Premiere Pro
 
+# 🔥 STREAK 🔥
+[![GitHub Streak](https://github-readme-streak-stats-mu-drab.vercel.app?user=Kenzouh&theme=monokai-metallian)](https://git.io/streak-stats)
 
 # My stats! 🤩
 [![](https://raw.githubusercontent.com/Kenzouh/Kenzouh/master/profile-summary-card-output/bear/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
