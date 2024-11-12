@@ -1,7 +1,8 @@
 # Kenzouh
 Hii! I am Kenzo! (^▽^)/
 
-![Snorlax Waving GIF November 12, 2024](https://github.com/user-attachments/assets/b7240cf5-5d0e-430d-b887-46d05b31fdaf)
+![b34bd0ef85660338e6082332e0d31a7f](https://github.com/user-attachments/assets/60415d46-fa7a-436e-9512-561ef29e3c54)
+
 
 
 # Tech Stack
