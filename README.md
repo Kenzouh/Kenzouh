@@ -20,7 +20,7 @@ Hii! I am Kenzo! (^▽^)/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb, py" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Hii! I am Kenzo! (^▽^)/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,powershell,bash,md,replit" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,powershell,bash,md,replit,latex" />
   </a>
 </p>
 
