@@ -36,7 +36,7 @@ Hii! I am Kenzo! (^▽^)/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,powershell,bash,md,replit,latex,azure" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,powershell,bash,md,replit,latex,r,azure" />
   </a>
 </p>
 
