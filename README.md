@@ -20,7 +20,7 @@ Hii! I am Kenzo! (^▽^)/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,nodejs,express,php,mysql,mongodb,py" />
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,express,php,mysql,mongodb" />
   </a>
 </p>
 
